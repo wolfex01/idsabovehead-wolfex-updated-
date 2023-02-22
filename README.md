@@ -16,4 +16,4 @@ To use this script, simply add it to your FiveM server's resources folder and st
 
 ## Credits
 
-This script was created by Rubbertoe98. The modifications were made by [Your Name Here].
+This script was created by Rubbertoe98. The modifications were made by wolfex.
