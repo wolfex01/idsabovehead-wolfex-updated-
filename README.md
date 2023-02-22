@@ -1,4 +1,4 @@
-# Lua Anti-cheat script
+# Lua Anti-IDSEE script
 
 This is a Lua script designed to prevent players from seeing each other's ID numbers through walls or other objects. The original script was created by Rubbertoe98.
 
